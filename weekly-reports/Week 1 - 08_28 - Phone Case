@@ -1,0 +1,23 @@
+# Week 1 8/28- Phone Case in Rhino #
+
+This week we played around with Rhino and Grasshopper which was very challenging and interesting. 
+
+Some things I learnt:
+- How to open Rhino with and without Grasshopper and toggle different viewports
+- How to adjust parameters in Grasshopper and see how if affects things in Rhino
+- See how coding parameters in Grasshopper is done and try (with little success) to understand the coding done by TJ in Grasshopper
+- Troubleshooting Rhino+Grasshopper (with help from Cody) - 
+  - Figuring out how to "bake", and export the baked results
+  - Realizing that my layers were locked, which is why I couldn't access certain layers to delete older baked parts
+  - How to group and disable code in Grasshopper
+
+Things I want to figure out:
+- How to adjust beyond the sliders in grasshopper and rhino, but actually make adjustments to the design (ex: curved edges with Fillet tool)
+- Beginner coding in Grasshopper for a more basic object
+- General practice in 3D design with Rhino
+
+Reflection and Speculation:
+It's pretty amazing that a tool like Grasshopper exists, and with some parameters and constraints it can automatically generate a design. Even speaking to Cody and other students of architecture and understanding how its used to create full sized buildings blows my mind. While it is a tool that has a high initial learning curve, I hope that over time and with more familiarity to the software, things will get easier, and it'll be more feasible to tweak ot create in this software. 
+I'm curious to know how this tool designs "organic-shaped" objects with constraints. Most examples I've seen with grasshopper include some kind of latticing as well as more soft, organic features (which is the opposite of what I think of when I hear parametric design). As someone who has a lot of interest in biomimicry and nature-inspired design, I wonder if there's any way to actually feed constraints that somehow are based on the rules of nature or what we see in the natural world. 
+
+Phone Case Exploration:
