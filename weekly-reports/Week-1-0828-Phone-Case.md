@@ -28,9 +28,10 @@ I decided to laser cut my phone stand. I adjusted the context parameters to take
 ![Grasshopper Settings](Images/1_Grasshopper_Settings.png)
 ![Rhino Outline](Images/1_Rhino_Outline.png)
 ![Rhino Render](Images/1_Rhino_Render.png)
-![Raster Lasercut](Images/1_Raster_Lasercut.MOV)
-![Lasercut Image](Images/1_Lasercut_Image.HEIC)
-![Lasercut Final](Images/1_Lasercut_Final.HEIC)
+![Raster Lasercut](https://vimeo.com/861900527?share=copy)
+![Lasercut Image](Images/1_Lasercut_Image.png)
+![Lasercut Final](Images/1_Lasercut_Final.png)
+
 
 I also added a Warrior 2 yoga pose to be rastered on the laser cutter (just for fun). The cuts didn't come out perfect, in some places the material may have been too thick and certain lines didn't cut all the way through (I may need to use a higher power setting as well). I used a box cutter to cut through those areas which resulted in not the cleanest of lines. In addition, I set my material thickness in Grasshopper to 3 mm rather than 3.4 mm (caliper measured thickness). This resulted in slightly smaller holes and a tighter fit. I plan to use sandpaper to clean off the rough edges from the box cutter and also sand down some holes to create a better fit. I also learned that I can change the material thickness dimensions in Grasshopper to include 2 decimal points, which may have given me a better fit (and adding 0.05 mm in leeway). 
 
