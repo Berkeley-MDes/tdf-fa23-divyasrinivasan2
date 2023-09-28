@@ -2,10 +2,12 @@
 
 This week we worked on a few different things with the Photon 2! It was interesting to see how different it was from Arduino. I do see the benefits of cloud connection (although I felt like the programming was a little more difficult since there's multiple tabs to look at), and I liked that the device was smaller and fit on a breadboard. 
 
-In class we worked on a variety of things- making LED lights blinked (I forgot to document this!) and using a light sensor to change the output light intensity. During class this did not work for me, so I went home and tried again 
+In class we worked on a variety of things- making LED lights blinked and using a photosensor to change the output light intensity. During class this did not work for me, so I went home and tried again and realized I was using the wrong code (it wasn't printing each line below the other) and also, I didn't use the higher resistance for the sensor (although this didn't seem to make a difference). I also realized that the code doesnt actually output any LED info, and once I understood the code better, everything made a lot more sense. 
 
+An open question I still have is- why do we need a higher resistance for the photosensor? 
 
-(FILL IN)
+![Photon 2 Photosensor](Images/2_Photosensor_Circuit.png)
+[![Flashing Lights](Images/2_Flashing_lights.png)](https://vimeo.com/869308930?share=copy)
 
 Photon 3 Ideation:
 For inspiration, I decided to look at a few different places and found some interesting ways to use a microcontroller. Some were useful (displaying chart for train timings so you don't have to pull out your phone every time) and some were hilarious (attaching a fake pigeon to a drone and usnig the microcontroller to make it detect cars and "poop" on them). We ended up doing most of the ideation in class, but this research did help me understand the capabilities of the Photon 2. 
