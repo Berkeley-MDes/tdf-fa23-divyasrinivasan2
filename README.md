@@ -1,5 +1,6 @@
 # Weekly Report Links
 
+- [Weekly Report 5 (9/25) - E Textiles and More](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-5-0925-E-Textiles.md)
 - [Weekly Report 4 (9/18) - Photon 2 Microcontroller](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-4-0918-Photon2.md)
 - [Weekly Report 3 (9/11) - Grasshopper Exploration](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-3-0911-GrasshopperExploration.md)
 - [Weekly Report 2 (9/04) - Rhino Testing](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-2-0904-Rhino-Testing.md)
