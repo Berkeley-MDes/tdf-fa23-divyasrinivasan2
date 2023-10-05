@@ -1,4 +1,4 @@
-# Week 5 -10/2 - Robotic Sculptures and more! #
+# Week 6 -10/2 - Robotic Sculptures and more! #
 
 # Ideation Phase #
 
