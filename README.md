@@ -1,5 +1,6 @@
 # Weekly Report Links
 
+- [Weekly Report 7 (10/09) - Motors and Microcontrollers](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-7-1009-Motors_Microcontrollers.md)
 - [Weekly Report 6 (10/02) - Robotic Sculpting](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-6-1002-Sculpture_Exploration.md
 )
 - [Weekly Report 5 (9/25) - E Textiles and More](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-5-0925-E-Textiles.md)
