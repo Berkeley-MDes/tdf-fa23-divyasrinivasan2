@@ -19,7 +19,7 @@ Some of the work we've done so far includes:
 
 In addition, we were able to get our motors working with and without an accelerometer by following the intro tutorials on Github!
 
-<Servo Motor without Acceleromater:> 
+Servo Motor without Acceleromater: 
 
 ```
 SYSTEM_THREAD(ENABLED);
@@ -45,7 +45,7 @@ void loop() {
 ```
 [![Servo_Motor_1](Images/Servo_Motor_1.png)](https://vimeo.com/873774727?share=copy)
 
-<Servo Motor with Acceleromater: >
+Servo Motor with Acceleromater: 
 We had some trouble figuring out how to install the library for ADXL362, and realized it can be done directly through a function in particle workbench. However we did have to quit and reopen the software for it to start working. 
 
 ```
@@ -87,7 +87,7 @@ void loop() {
 - We split up the roles of getting a metal plate, a hinge, and 3D printing a linear servo actuator we found on thiniverse (https://www.thingiverse.com/thing:3170748)
 - Planning to run this test once the smaller wire feeder from amazon comes in!
 
-<Test Plan for Motor: >
+Test Plan for Motor: 
 [![Test_Plan_Motor](Images/Test_Plan_Motor.png)]
 Next is figuring out the sensors!
 
