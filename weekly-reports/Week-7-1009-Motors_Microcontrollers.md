@@ -15,7 +15,7 @@ Some of the work we've done so far includes:
 - Was able to get a twisted wire after many attempts, shown below.
 
 [![Wire Bending](Images/Wire_Test_1.png)](https://vimeo.com/873771388?share=copy)
-[![Wire Bending 2](Images/Wire_Test_2.png)]
+![Wire Bending 2](Images/Wire_Test_2.png)
 
 In addition, we were able to get our motors working with and without an accelerometer by following the intro tutorials on Github!
 
@@ -88,10 +88,10 @@ void loop() {
 - Planning to run this test once the smaller wire feeder from amazon comes in!
 
 Test Plan for Motor: 
-[![Test_Plan_Motor](Images/Test_Plan_Motor.png)]
+![Test_Plan_Motor](Images/Test_Plan_Motor.png)
 Next is figuring out the sensors!
 
 **Bonus Pic**
 We did some welding yesterday which was cool and here's a bonus photo:
-[![Welding](Images/Welding.png)]
+![Welding](Images/Welding.png)
 
