@@ -1,5 +1,6 @@
 # Weekly Report Links
 
+- [Weekly Report 8 (10/16) - Digital Ecosystems](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-8-1016-Digital-Ecosystem.md)
 - [Weekly Report 7 (10/09) - Motors and Microcontrollers](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-7-1009-Motors_Microcontrollers.md)
 - [Weekly Report 6 (10/02) - Robotic Sculpting](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-6-1002-Sculpture_Exploration.md
 )
