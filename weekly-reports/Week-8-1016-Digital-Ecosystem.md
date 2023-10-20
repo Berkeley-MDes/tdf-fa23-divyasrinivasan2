@@ -17,4 +17,4 @@ Analog:
 - I also wonder how we can further use AI and robotic tools like this for artistic endeavors, making larger scale models, detailed bending sculptures, or using wire as a scaffold and also depositing some other material on top as the "visible" aspect!
 
 # Final Video #
-[Link to Final Video]([https://website-name.com](https://www.canva.com/design/DAFxhUU6DyQ/Kmevwi3KIj7GeizpnEHicA/edit?utm_content=DAFxhUU6DyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAFxhUU6DyQ/Kmevwi3KIj7GeizpnEHicA/edit?utm_content=DAFxhUU6DyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link to Final Video]([https://website-name.com](https://www.canva.com/design/DAFxhUU6DyQ/Kmevwi3KIj7GeizpnEHicA/edit?utm_content=DAFxhUU6DyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
