@@ -1,4 +1,4 @@
-# Week 7 -10/16 - Motors and Microcontrollers! #
+# Week 7 -10/16 - Digital Ecosystem #
 
 Phew! This was a looong week with a lot of deadlines. I'm really proud of my team and how things came together! We were able to get the full robotic wire sculpting vision made reality. 
 
