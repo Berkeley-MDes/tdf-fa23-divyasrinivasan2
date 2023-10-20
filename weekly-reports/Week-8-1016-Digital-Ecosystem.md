@@ -1,6 +1,6 @@
-# Week 7 -10/16 - Digital Ecosystem #
+# Week 8 -10/16 - Digital Ecosystem #
 
-Phew! This was a looong week with a lot of deadlines. I'm really proud of my team and how things came together! We were able to get the full robotic wire sculpting vision made reality. 
+Phew! This was a long week with a lot of deadlines. I'm really proud of my team and how things came together! We were able to get the full robotic wire sculpting vision made reality. 
 
 A few things I learnt along the way:
 - We purchased the Wire Feeder online and it was small but mighty! We hooked it up to a DC power supply with 5V and it worked very well with 1/32'' wire.
