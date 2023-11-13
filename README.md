@@ -1,5 +1,7 @@
 # Weekly Report Links
 
+- [Weekly Report 11 (11/06) - Art and Tech](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-11-1106-Art-and-Tech.md
+)
 - [Weekly Report 10 (10/30) - AI Thoughts](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-10-1030-AI-Thoughts.md)
 - [Weekly Report 9 (10/23) - Artificial Intelligence Chatbot](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-9-1023-Artificial-Intelligence_Chatbot.md)
 - [Weekly Report 8 (10/16) - Digital Ecosystems](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-8-1016-Digital-Ecosystem.md)
