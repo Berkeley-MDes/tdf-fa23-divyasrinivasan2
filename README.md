@@ -1,5 +1,7 @@
 # Weekly Report Links
 
+- [Weekly Report 14 (11/27) - Final Stretch](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-14-1127-Final-Stretch.md)
+- Weekly Report 13 (11/20) - Thanksgiving Break
 - [Weekly Report 12 (11/13) - Biomimetic Wearables](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-12-1113-Biomimetic-Wearables.md)
 - [Weekly Report 11 (11/06) - Art and Tech](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-11-1106-Art-and-Tech.md)
 - [Weekly Report 10 (10/30) - AI Thoughts](https://github.com/Berkeley-MDes/tdf-fa23-divyasrinivasan2/blob/main/weekly-reports/Week-10-1030-AI-Thoughts.md)
